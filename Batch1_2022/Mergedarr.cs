@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Merged
 {
-    static void Main()
+    static void Main1()
     {
         int i = 0;
         int j = 0;
